@@ -1,0 +1,22 @@
+body{
+    background-color:red;
+}
+h2{
+    text-align: center;
+}
+td{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    color: turquoise;
+    
+}
+tr{
+    background-color: black;
+    color: red;
+}
+table{
+    margin: auto;
+    border-radius: 15px;
+    border: 1px solid;
+}
